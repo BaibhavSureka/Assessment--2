@@ -71,5 +71,5 @@ function handleOrder(event) {
   // If all validations pass, proceed with order placement
   alert("Order placed successfully!");
   document.getElementById("paymentForm").reset();
-  window.location.href = "index1.html";
+  window.location.href = "index.html";
 }
